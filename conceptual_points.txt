@@ -6,3 +6,5 @@
 3. ✅ No emoji handling
    ✅ Train/Test split
    ✅ Cross-validation for tuning
+
+4.Due to the high dimensionality of TF-IDF features, Random Forest training is computationally expensive. Hence, a reduced hyperparameter grid was used.
