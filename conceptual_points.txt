@@ -1,0 +1,8 @@
+ 1. Although the overall accuracy decreased after applying imbalance handling techniques, there was a significant improvement in the recall of the minority class (disaster tweets). This indicates that the model became more effective in identifying disaster-related tweets, which is crucial for this task. The trade-off between accuracy and recall is expected in imbalanced classification problems.
+
+2. Accuracy ≠ Good model
+   Recall / F1 = More important
+
+3. ✅ No emoji handling
+   ✅ Train/Test split
+   ✅ Cross-validation for tuning
