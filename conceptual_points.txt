@@ -8,3 +8,6 @@
    ✅ Cross-validation for tuning
 
 4.Due to the high dimensionality of TF-IDF features, Random Forest training is computationally expensive. Hence, a reduced hyperparameter grid was used.
+
+5.  SMOTE is applied only on training data after TF-IDF.
+   .  Validation and test sets are untouched to avoid data leakage.
