@@ -11,3 +11,8 @@
 
 5.  SMOTE is applied only on training data after TF-IDF.
    .  Validation and test sets are untouched to avoid data leakage.
+
+6. 👉 VERY IMPORTANT:
+	i) “Dropout layers were used for regularization and do not alter the number of hidden layers.”
+
+	ii) “Weight initialization was tuned using He Uniform and Glorot Uniform initializations.”
