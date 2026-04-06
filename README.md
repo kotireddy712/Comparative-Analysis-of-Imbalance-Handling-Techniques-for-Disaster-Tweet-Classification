@@ -183,19 +183,17 @@ Contributions are welcome!
 
 ##  License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available.
 
 ---
 
 ##  Author
 
-Koti Reddy
-Yangala Reddy Sekhar
-Venkat Subbaiah
-Abhiram
+Koti Reddy,
+Yangala Reddy Sekhar,
+Venkat Subbaiah,
+Abhiram,
 Palla Rakesh
-April 2026
-
 ---
 
 ##  Acknowledgements
