@@ -16,3 +16,5 @@
 	i) “Dropout layers were used for regularization and do not alter the number of hidden layers.”
 
 	ii) “Weight initialization was tuned using He Uniform and Glorot Uniform initializations.”
+
+7. Due to class imbalance, the evaluation focuses on the minority class (Class 1), where recall and F1-score are prioritized over overall accuracy.
